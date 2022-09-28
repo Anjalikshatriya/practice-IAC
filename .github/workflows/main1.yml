@@ -58,7 +58,7 @@ jobs:
 
       - name: Run a one-line script
 
-        run: demo.py
+        run: python demo.py
 
 
 
@@ -100,7 +100,7 @@ jobs:
 
       - name: Run a second script
 
-        run: demo2.py
+        run: python demo2.py
 
 
 
